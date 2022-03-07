@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644179610 source:c:\users\lenovo\desktop\hackerrank excercises\printing sum\divideandmultiply\main.c
+	<stdio.h>
+	<stdlib.h>
+
